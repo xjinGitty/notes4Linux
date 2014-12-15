@@ -24,5 +24,11 @@ git commit work flow:
 -git repo will inlcude blob(files checksum), blob tree (directory checksum) and the commit that with the pointer to th root director
 
 git branch:
-HEAD will indicate which branch is used current
+-HEAD will indicate which branch is used current
+-knowing the commit arch will help on the branch and checkout 
+-git checkout -b did the same with git branch together with git checkout	
 
+git merge:
+-fast-forward: git checkout master and git merge testing (will merge the testing branch to the mater branch)
+-3-way-merge: this will create new commit based on the 2 and the ancestor
+-basic conflict: if the modification is in the same file and the same area, git coult not determine which to choose
