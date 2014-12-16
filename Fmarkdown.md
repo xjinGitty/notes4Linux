@@ -45,26 +45,30 @@ learning notes for markdown
 [简书首页](http://jianshu.io)
 10. a poem quotation:
 > **一盏灯， 一片昏黄； 一简书， 一杯淡茶。 守着那一份淡定， 品读属于自己的寂寞。 保持淡定， 才能欣赏到最美丽的风景！ 保持淡定， 人生从此不再寂寞。**
+
 ---
-## more extended trying
-1. table format (: used for the align method) 
 
-|Table|Are|Cool
-|-|:-:|-:|
-| col 3 is| right-aligned | $1600    |
-| col 2 is | centered      |   $12    |
-| zebra stripes | are neat|    $1    |
-
-## example
 
 ## notes in the end
+
+1. table format (: used for the align method) 
+        |Table|Are|Cool
+        |-|:-:|-:|
+        | col 3 is| right-aligned | $1600    |
+        | col 2 is | centered      |   $12    |
+        | zebra stripes | are neat|    $1    |
+
 1. \>(starting tag) and &(html entity) has specific meaning in HTML lan,
 2. and there need more explaination for the & and >, when using them in the coding area or just type directly (markdown could auto translate it to HTML's composition or non)
-3. AT&lt;T and AT&amp;T for the > and & 
+3. *(AT&lt;T and AT&amp;T for the > and & )*
+
 ---
+
 1. HTML code area, could be separated by adding line at the beginning and at the end; another tips that should be noticed is that, could not use tab or the 4 spaces to indent the HTML code area
 2. and markdown lan will not be represent when it is included in the HTML code erea (区段标签中有效，区块标签中无效)
+
 ---
+
 1. test the segmentation function: 
  
             first should notice that at the beginning do not use tab or the 4 spaces as starting,  it will represent as coding area  
@@ -106,6 +110,7 @@ line
 [1]: http://xxx (titile)
 
 ---
+
 1. either use (``) or use tab or 4 spaces to quote coding will be ok
 2. ![Alt text](/path/to/img.jpg)
 3. <http://image6.tuku.cn/pic/wallpaper/dongwu/xueqiaoquanbizhi/023.jpg> *(for the content in <> will be translate as link automatically)
