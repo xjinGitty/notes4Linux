@@ -44,6 +44,7 @@ learning notes for markdown
 ![](http://image6.tuku.cn/pic/wallpaper/dongwu/xueqiaoquanbizhi/023.jpg)
 [简书首页](http://jianshu.io)
 10. a poem quotation:
+
 > **一盏灯， 一片昏黄； 一简书， 一杯淡茶。 守着那一份淡定， 品读属于自己的寂寞。 保持淡定， 才能欣赏到最美丽的风景！ 保持淡定， 人生从此不再寂寞。**
 
 ---
@@ -51,12 +52,13 @@ learning notes for markdown
 
 ## notes in the end
 
-1. table format (: used for the align method) 
-        |Table|Are|Cool
-        |-|:-:|-:|
-        | col 3 is| right-aligned | $1600    |
-        | col 2 is | centered      |   $12    |
-        | zebra stripes | are neat|    $1    |
++ table format (: used for the align method)
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 1. \>(starting tag) and &(html entity) has specific meaning in HTML lan,
 2. and there need more explaination for the & and >, when using them in the coding area or just type directly (markdown could auto translate it to HTML's composition or non)
