@@ -92,3 +92,8 @@
 *(2014-12-18)*
 1. dmesg| grep -n -A3 -B2 --color=auto 'eth'
 2. wild char and specific charactar: both will lose the special meaning when in "" ???
+3. . and * in regular: used as combination *(the specific RE character)*
+4. ??? grep -n 'go\{2,5\}d' file  *('' and \ are duplicated here???, could remove one???)*
+5. all of the characters to be presented as what determined by if the command (tool) support RE
+6. declare -i and $(()) could be used for the formula caculation
+7. sh and source and . to run the script (sh will have no effect to the parents bash, source could effect the parents)
