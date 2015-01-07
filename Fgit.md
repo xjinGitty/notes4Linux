@@ -26,3 +26,24 @@
 >git branch:
 >HEAD will indicate which branch is used current
 >
+### git branch and merge
+1. before switch a branch, to commit all of the changes for another branch, that means make the working directory to be clean
+2. to get around this : git commit and the git stash or git clean could be used
+3. git automatically add remove or modify files to get work directory to the last commit status
+4. when the conflict file been opened, the git conflict-resolution maker could be found.
+5. <<<< ==== >>>> will be mark for the separater
+6. then run git add to mark files as resolved status in git
+7. then run git commit to finishe the merging process
+8. git mergetool is a graphical tool
+
+### git branch management
+1. git branch --merged: will show the branch that have been merged in the current working branch
+2. git branch --no-merged
+
+### git branch workflow
+1. could be seen as the move of the pointer
+2. topic branch means the short live and the temprary ones
+
+### git branch remote-branch
+1. Remote branches are references (pointers) to the state of branches in your remote repositories
+2. 

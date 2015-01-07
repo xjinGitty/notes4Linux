@@ -22,7 +22,7 @@ learning notes for markdown
 1. ``small code area ``, could be included in the double ` letter
 2. then the & and the [] could be easily used
 3. and as above I have used, --- could be used for the segment lable
-4. 2 *enter* means open a new line, if jsut one *enter* be striked, just meaning the <br/>
+4. 2 *enter* means open a new line, if just one *enter* be striked, just meaning the <br/>
 5. the big code area could be included in the 4 ' ' or 1 tab, like belowing:
        this is the big code area (but actually, I just made it by 1 tab followed by 3 spaces), and tried just use 4 spaces or 1 tab, bug it did not work, may be it's caused for the differrent markdown verson??? I guess, or it has something to do with the billinger app
 6. highlight the code and the line num print, just use '''language:n *(show this as belowing)*
@@ -100,7 +100,7 @@ line
     >
     > Back to the first level.
 
-    1. (one spcace is at the begining) and is there method to make the sequence aligned with the quotation in format??? now it has more intentation
+    1. (one spcace is at the begining) and is there a method to make the sequence aligned with the quotation in format??? now it has more intentation
     
 4. when coding is in sequence, 2 tab or the correspongding 8 spaces is needed; and when a line without the quotation, then will be thought as the ending for the coding area
 5. link in markdown could have below format:
