@@ -49,3 +49,9 @@
 
 
 7. dmesg| grep -n -A3 -B2 --color=auto 'eth'
+
+### add for the third time review
+#### questions
+1. declare to define Array: usecase
+	declare -a arr=("element1" "element2" "element3")
+

@@ -46,4 +46,5 @@
 
 ### git branch remote-branch
 1. Remote branches are references (pointers) to the state of branches in your remote repositories
-2. 
+2. rebase: when you got branch from remote repo with rebased commit, you could make work to be more clear with: git fetch and then git rebase remote-repo/ or you could use git pull --rebase (this situation should not exist, never push rebase to remote repo)
+3. git pull compared with git rebase 
