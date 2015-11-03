@@ -1,0 +1,15 @@
+1. self introduction
+# all of the hw set
+2. sp1 test status
+3. sala driver naming arch
+4. intel hardware test experience (current)
+5. soc release
+6. switch to multi-host center
+7. test the hw back to back?
+
+
+1. x86_64 ---> risk (atom - e3 - 35) internal
+2. frequency 3G - core num and the low power 
+3. ll cache - middle level -
+
+1. fate to track intel hw feature

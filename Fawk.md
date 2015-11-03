@@ -97,4 +97,5 @@ f           {print}     ;if f is true, print current line
 1. GNU manual 
 2. awk tutorial 
 
-
+## notes for learning http://www.grymoire.com/Unix/Awk.html
+1. there should be 3 wayss for awk via script method
